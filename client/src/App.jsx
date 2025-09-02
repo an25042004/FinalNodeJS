@@ -1,4 +1,4 @@
-// import "./App.css";
+import "./App.css";
 import { Route, Routes } from "react-router-dom";
 // User pages
 import ForgotPassword from "./pages/auth/ForgotPasswordPage.jsx";
